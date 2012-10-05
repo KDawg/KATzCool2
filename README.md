@@ -22,3 +22,14 @@ Install Location For Windows
 ============================
 Typical location for this file is something like this
 C:\Users\Ken\.WebIde50\config\colors
+
+Favorite Fonts
+==============
+One programmer fonts (monospaced) is highly recommended having used it day in and out for enough time to let
+me know I'm more productive because it exists:
+
+Bitstream Vera Sans Mono: http://www.dafont.com/bitstream-vera-mono.font
+
+This one suddenly caught my eye and I've switched to it for a daily use font:
+
+Adobe Source Code Pro Mono: http://blogs.adobe.com/typblography/2012/09/source-code-pro.html
