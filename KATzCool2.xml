@@ -57,7 +57,7 @@
     </option>
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FOREGROUND" value="c9783d" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -77,7 +77,7 @@
     </option>
     <option name="APACHE_CONFIG.IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="1aacdd" />
+        <option name="FOREGROUND" value="e0c47c" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
