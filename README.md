@@ -33,16 +33,17 @@ Preferences -> IDE Settings -> Editor -> Colors & Fonts -> Scheme Name
 This programmer font is highly recommended as I've used it daily for years and I know
 I'm more productive because it exists:
 
-[Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)
+    > [Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)
 
 Out of nowhere I've suddenly switched to this font as Adobe dropped it on the world just
 a few weeks ago and I think it's fantastic:
 
-[Adobe Source Code Pro Mono](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html)
+    > [Adobe Source Code Pro Mono](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html)
 
 ## Color Theme Sample
 Check out an example of how this thing looks:
-![alt text](https://github.com/KDawg/KATzCool2/KATzCool2_Screenie.jpg "Color Theme Sample")
+![alt text](https://github.com/KDawg/KATzCool2/blob/master/KATzCool2_Screenie.jpg "Color Theme Sample")
 
 ## Reference
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+http://daringfireball.net/projects/markdown/syntax
