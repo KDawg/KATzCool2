@@ -20,11 +20,11 @@ Other languages are skipped simply because I don't reach for them often enough.
 
 ## Install Location for OSX
 Typical PHPStorm v5 location for this file is something like this:
-/Users/kentabor/Library/Preferences/WebIde50/colors
+`/Users/kentabor/Library/Preferences/WebIde50/colors`
 
 ## Install Location For Windows
 Typical PHPStorm v5 location for this file is something like this
-C:\Users\Ken\.WebIde50\config\colors
+`C:\Users\Ken\.WebIde50\config\colors`
 
 ## App Setting
 Preferences -> IDE Settings -> Editor -> Colors & Fonts -> Scheme Name
@@ -45,5 +45,5 @@ Check out an example of how this thing looks:
 ![alt text](https://github.com/KDawg/KATzCool2/raw/master/KATzCool2_Screenie.jpg "Color Theme Sample")
 
 ## Reference
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-http://daringfireball.net/projects/markdown/syntax
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* http://daringfireball.net/projects/markdown/syntax
