@@ -2177,7 +2177,7 @@
     </option>
     <option name="SASS_COMMENT">
       <value>
-        <option name="FOREGROUND" value="bc9455" />
+        <option name="FOREGROUND" value="9a9a9a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -2207,7 +2207,7 @@
     </option>
     <option name="SASS_EXTEND">
       <value>
-        <option name="FOREGROUND" value="ff" />
+        <option name="FOREGROUND" value="1aacdd" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2217,7 +2217,7 @@
     </option>
     <option name="SASS_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="80" />
+        <option name="FOREGROUND" value="fabb4e" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2227,7 +2227,7 @@
     </option>
     <option name="SASS_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="80" />
+        <option name="FOREGROUND" value="e0c47c" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2237,7 +2237,7 @@
     </option>
     <option name="SASS_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc99ff" />
+        <option name="FOREGROUND" value="1aacdd" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2257,7 +2257,7 @@
     </option>
     <option name="SASS_NUMBER">
       <value>
-        <option name="FOREGROUND" value="ff00" />
+        <option name="FOREGROUND" value="c9783d" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2267,7 +2267,7 @@
     </option>
     <option name="SASS_PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="ff" />
+        <option name="FOREGROUND" value="e0c47c" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2277,7 +2277,7 @@
     </option>
     <option name="SASS_PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="8000" />
+        <option name="FOREGROUND" value="c9783d" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2307,7 +2307,7 @@
     </option>
     <option name="SASS_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="80" />
+        <option name="FOREGROUND" value="ffab57" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2317,7 +2317,7 @@
     </option>
     <option name="SASS_URL">
       <value>
-        <option name="FOREGROUND" value="8000" />
+        <option name="FOREGROUND" value="6d9cbe" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
