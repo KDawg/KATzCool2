@@ -547,7 +547,7 @@
     </option>
     <option name="HAML_CLASS">
       <value>
-        <option name="FOREGROUND" value="e8bf6a" />
+        <option name="FOREGROUND" value="c9783d" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -557,9 +557,9 @@
     </option>
     <option name="HAML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="bc9458" />
+        <option name="FOREGROUND" value="9a9a9a" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -567,7 +567,7 @@
     </option>
     <option name="HAML_FILTER">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="ffab57" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -587,7 +587,27 @@
     </option>
     <option name="HAML_ID">
       <value>
-        <option name="FOREGROUND" value="e8bf6a" />
+        <option name="FOREGROUND" value="c9783d" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="HAML_LINE_CONTINUATION">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="HAML_PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -597,8 +617,8 @@
     </option>
     <option name="HAML_RUBY_CODE">
       <value>
-        <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="232323" />
+        <option name="FOREGROUND" value="1aacdd" />
+        <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -607,7 +627,27 @@
     </option>
     <option name="HAML_RUBY_START">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="99baff" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="HAML_STRING">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="HAML_STRING_INTERPOLATED">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -617,7 +657,17 @@
     </option>
     <option name="HAML_TAG">
       <value>
-        <option name="FOREGROUND" value="e8bf6a" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="HAML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffab57" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -637,7 +687,7 @@
     </option>
     <option name="HAML_XHTML">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="cc99ff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -669,7 +719,7 @@
       <value>
         <option name="FOREGROUND" value="9a9a9a" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -2870,6 +2920,16 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="TAG_ATTR_KEY">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
