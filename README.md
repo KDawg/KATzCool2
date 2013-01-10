@@ -1,4 +1,4 @@
-# KATzCool2
+# PHPStorm and KATzCool2
 
 This is my hand-tuned color theme for use in the amazing dev tool PHPStorm by JetBrains.
 It's something I've honed over the year little by little. No doubt in my mind that it's
@@ -24,7 +24,7 @@ Typical PHPStorm v5 location for this file is something like this:
 
 ## Install Location For Windows
 Typical PHPStorm v5 location for this file is something like this
-`C:\Users\Ken\.WebIde50\config\colors`
+`C:\Users\Ken\.WebIde50\config\colors
 
 ## App Setting
 Preferences -> IDE Settings -> Editor -> Colors & Fonts -> Scheme Name
@@ -47,3 +47,22 @@ Check out an example of how this thing looks:
 ## Reference
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * http://daringfireball.net/projects/markdown/syntax
+
+
+# RubyMine Support and KATzCool2
+
+I've recently bought RubyMine and have brought over my color theme for PHPStorm into this
+hot new IDE and added the languages:
+
+## Supported Languages
+* Ruby
+* (all the others above...)
+
+## Install Location for OSX
+Typical RubyMine v4.5 location for this file is something like this:
+`/Users/kentabor/Library/Preferences/RubyMine40/colors
+
+## Install Location For Windows
+Typical PHPStorm v5 location for this file is something like this
+`C:\Users\Ken\.RubyMine40\config\colors
+
