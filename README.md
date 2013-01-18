@@ -1,14 +1,16 @@
 # KATCool2 Color Theme
 
-This is my hand-tuned color theme for use in the amazing dev tool PHPStorm by JetBrains.
-It's something I've honed over the year little by little. No doubt in my mind that it's
-influenced by dozens of dark-colored themes, but I don't have any particular references
-to call out.
+This is my hand-tuned color theme for use in the amazing dev tools RubyMine and PHPStorm
+by JetBrains.
+It's something I've honed over the year little by little to suit my taste. No doubt in
+my mind that it's influenced by dozens of fantastic dark-colored themes, but I don't
+have any particular references to call out.
 
 Give it a try and see how to you like it. If it's useful for you please pass on a kind
 word about it to your friends and teammates!
 
-Check out an example of how this thing looks:
+Check out this example of how this color theme makes code look:
+
 ![alt text](https://github.com/KDawg/KATzCool2/raw/master/KATzCool2_Screenie.jpg "Color Theme Sample")
 
 
@@ -23,7 +25,6 @@ Languages the color theme supports are admittedly Ken-centric including these:
 * PHP
 * Regex
 * Twig
-* YAML
 * Xpath
 * Smarty
 
@@ -35,7 +36,7 @@ Typical PHPStorm v5 location for this file is something like this:
 
 ## Install Location For Windows
 Typical PHPStorm v5 location for this file is something like this
-`C:\Users\Ken\.WebIde50\config\colors
+`C:\Users\Ken\.WebIde50\config\colors`
 
 ## App Setting
 Preferences -> IDE Settings -> Editor -> Colors & Fonts -> Scheme Name
@@ -44,19 +45,22 @@ Preferences -> IDE Settings -> Editor -> Colors & Fonts -> Scheme Name
 # RubyMine Support
 
 I've recently bought RubyMine and have brought over my color theme for PHPStorm into this
-hot new IDE and added the languages:
+hot new IDE adding its languages.
 
 ## Supported Languages
 * Ruby
+* ERB
+* HAML
+* YAML
 * (all the others above...)
 
 ## Install Location for OSX
 Typical RubyMine v4.5 location for this file is something like this:
-`/Users/kentabor/Library/Preferences/RubyMine40/colors
+`/Users/kentabor/Library/Preferences/RubyMine40/colors`
 
 ## Install Location For Windows
-Typical PHPStorm v5 location for this file is something like this
-`C:\Users\Ken\.RubyMine40\config\colors
+Typical RubyMine v4.5 location for this file is something like this
+`C:\Users\Ken\.RubyMine40\config\colors`
 
 
 # Favorite Fonts
