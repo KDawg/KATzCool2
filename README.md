@@ -52,7 +52,14 @@ hot new IDE adding its languages.
 * ERB
 * HAML
 * YAML
-* (all the others above...)
+* JavaScipt
+* CSS
+* HTML
+* SASS
+* LESS
+* CoffeeScript
+* Cucumber
+* Slim
 
 ## Install Location for OSX
 Typical RubyMine v4.5 location for this file is something like this:
