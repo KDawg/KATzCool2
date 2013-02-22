@@ -1075,6 +1075,99 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PUPPET_BAD_CHARACTER">
+      <value>
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PUPPET_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="9a9a9a" />
+      </value>
+    </option>
+    <option name="PUPPET_BRACES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="PUPPET_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="PUPPET_ESCAPE_SEQUENCE">
+      <value>
+        <option name="FOREGROUND" value="519f50" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="PUPPET_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="1aacdd" />
+      </value>
+    </option>
+    <option name="PUPPET_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="PUPPET_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="6cd8d9" />
+      </value>
+    </option>
+    <option name="PUPPET_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="PUPPET_PARENTH">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="PUPPET_REGEX">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="PUPPET_RESOURCE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="cc99ff" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="PUPPET_SQ_STRING">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="PUPPET_STRING">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="PUPPET_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ffffa4" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="PUPPET_VARIABLE_INTERPOLATION">
+      <value>
+        <option name="FOREGROUND" value="ffffa4" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="PUPPET_VARIABLE_INTERPOLATION_TAGS">
+      <value>
+        <option name="FOREGROUND" value="519f50" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="cc99ff" />
@@ -1153,6 +1246,36 @@
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="33ffcc" />
+      </value>
+    </option>
+    <option name="RDOC_DIRECTIVE">
+      <value>
+        <option name="FOREGROUND" value="eea051" />
+      </value>
+    </option>
+    <option name="RDOC_EMAIL">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="RDOC_HEADINGS">
+      <value>
+        <option name="FOREGROUND" value="cc99ff" />
+      </value>
+    </option>
+    <option name="RDOC_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="519f50" />
+      </value>
+    </option>
+    <option name="RDOC_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ffffa4" />
+      </value>
+    </option>
+    <option name="RDOC_URL">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
     <option name="REGEXP.BAD_CHARACTER">
