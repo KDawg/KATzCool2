@@ -1,42 +1,47 @@
 # KATCool2 Color Theme
 
-This is my hand-tuned color theme for use in the amazing dev tools RubyMine and PHPStorm
-by JetBrains.
+This is my hand-tuned dark color theme for use in the amazing dev tools RubyMine and PHPStorm
+by [JetBrains](http://www.jetbrains.com/).
+
 It's something I've honed over the year little by little to suit my taste. No doubt in
 my mind that it's influenced by dozens of fantastic dark-colored themes, but I don't
 have any particular references to call out.
 
 Give it a try and see how to you like it. If it's useful for you please pass on a kind
-word about it to your friends and teammates!
+word about it to your friends and teammates.
 
-Check out this example of how this color theme makes code look:
+* Ping me on Twitter [@KenTabor](https://twitter.com/kentabor) if you want to talk about this thing
+* Check out my [technical blog](http://blog.katworksgames.com/) when you're bored
+
+Here's how this color theme makes JavaScript look:
 
 ![alt text](https://github.com/KDawg/KATzCool2/raw/master/KATzCool2_Screenie.jpg "Color Theme Sample")
 
 
 # PHPStorm Support
 
-Languages the color theme supports are admittedly Ken-centric including these:
+Languages the color theme supports are just about all of them and especially Ken-centric including:
 * JavaScript
+* SCSS/SASS
+* Jade
+* Regex
 * HTML
 * CSS
-* SCSS/SASS
 * SQL
 * PHP
-* Regex
-* Twig
-* Xpath
-* Smarty
 
-Other languages are skipped simply because I don't reach for them often enough.
+## File Extensions (Apr.19.2013)
+I just noticed upgrading to PHPStorm v6 JetBrains ditched .xml config files for .icls files.
+Of course that means I'll be maintaining .icls on PHPStorm now, and RubyMine once they make
+the shift there.
 
 ## Install Location for OSX
-Typical PHPStorm v5 location for this file is something like this:
-`/Users/kentabor/Library/Preferences/WebIde50/colors`
+Typical PHPStorm v6 location for this file is something like this:
+`/Users/kentabor/Library/Preferences/WebIde60/colors`
 
 ## Install Location For Windows
-Typical PHPStorm v5 location for this file is something like this
-`C:\Users\Ken\.WebIde50\config\colors`
+Typical PHPStorm v6 location for this file is something like this
+`C:\Users\Ken\.WebIde60\config\colors`
 
 ## App Setting
 Preferences -> IDE Settings -> Editor -> Colors & Fonts -> Scheme Name
