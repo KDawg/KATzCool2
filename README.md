@@ -11,24 +11,25 @@ Give it a try and see how to you like it. If it's useful for you please pass on 
 word about it to your friends and teammates.
 
 * Ping me on Twitter [@KenTabor](https://twitter.com/kentabor) if you want to talk about this thing
-* Check out my [technical blog](http://blog.katworksgames.com/) when you're bored
+* Check out my [technical blog](http://blog.katworksgames.com/) for the latest on web frontend engineering
 
 Here's how this color theme makes JavaScript look:
 
 ![alt text](https://github.com/KDawg/KATzCool2/raw/master/KATzCool2_Screenie.jpg "Color Theme Sample")
 
 
-# PHPStorm Support
+# WebStorm/PHPStorm Support
 
 Languages the color theme supports are just about all of them and especially Ken-centric including:
 * JavaScript
-* SCSS/SASS
-* Jade
+* SCSS/SASS, LESS
+* Jade, HAML
 * Regex
 * HTML
 * CSS
 * SQL
 * PHP
+* Handlebars, EJS, Stylus
 
 ## File Extensions (Apr.19.2013)
 I just noticed upgrading to PHPStorm v6 JetBrains ditched .xml config files for .icls files.
@@ -36,6 +37,9 @@ Of course that means I'll be maintaining .icls on PHPStorm now, and RubyMine onc
 the shift there.
 
 ## Install Location for OSX
+Typical WebStorm v8 location for this file is something like this:
+`/Users/kentabor/Library/Preferences/WebStorm8/colors`
+
 Typical PHPStorm v6 location for this file is something like this:
 `/Users/kentabor/Library/Preferences/WebIde60/colors`
 
@@ -44,7 +48,9 @@ Typical PHPStorm v6 location for this file is something like this
 `C:\Users\Ken\.WebIde60\config\colors`
 
 ## App Setting
-Preferences -> IDE Settings -> Editor -> Colors & Fonts -> Scheme Name
+Be sure to restart your IDE if it was running while your copied over the color scheme to its directory.
+
+`Preferences -> IDE Settings -> Editor -> Colors & Fonts -> Scheme Name`
 
 
 # RubyMine Support
