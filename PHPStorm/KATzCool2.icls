@@ -351,9 +351,39 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="CSS.BAD_CHARACTER">
+      <value>
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CSS.BRACES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="CSS.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="CSS.COLON">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="e0c47c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="CSS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -363,9 +393,21 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="CSS.DOT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="CSS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="fabb4e" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="CSS.HASH">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -394,6 +436,18 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="CSS.OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="CSS.PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="e0c47c" />
@@ -406,6 +460,18 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="CSS.PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="CSS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="CSS.STRING">
       <value>
         <option name="FOREGROUND" value="a5c261" />
@@ -415,6 +481,12 @@
     <option name="CSS.TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ffab57" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="CSS.UNICODE.RANGE">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -2224,6 +2296,42 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="SASS_BAD_CHARACTER">
+      <value>
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SASS_BRACES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="SASS_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="SASS_COLON">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SASS_COLOR">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="SASS_COMMA">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="SASS_COMMENT">
       <value>
         <option name="FOREGROUND" value="9a9a9a" />
@@ -2249,6 +2357,12 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="SASS_DOT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="SASS_EXTEND">
       <value>
         <option name="FOREGROUND" value="1aacdd" />
@@ -2261,7 +2375,20 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="SASS_GLOBAL">
+      <value>
+        <option name="FOREGROUND" value="ff6060" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="SASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="SASS_ID_SELECTOR">
       <value>
         <option name="FOREGROUND" value="e0c47c" />
         <option name="EFFECT_TYPE" value="0" />
@@ -2272,6 +2399,12 @@
         <option name="FOREGROUND" value="ff6060" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="SASS_INTERPOLATION">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="SASS_KEYWORD">
@@ -2292,6 +2425,18 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="SASS_OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="SASS_PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="SASS_PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="e0c47c" />
@@ -2304,9 +2449,21 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="SASS_PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="SASS_RULE">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="SASS_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -2319,6 +2476,12 @@
     <option name="SASS_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ffab57" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="SASS_UNICODE_RANGE">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
