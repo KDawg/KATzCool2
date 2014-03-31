@@ -1225,6 +1225,12 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="JADE_PIPE">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="JADE_STATEMENTS">
       <value>
         <option name="FOREGROUND" value="1aacdd" />
@@ -1506,6 +1512,79 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="LESS_BAD_CHARACTER">
+      <value>
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LESS_BRACES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_COLON">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LESS_COLOR">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_COMMA">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="9a9a9a" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_DOT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="fabb4e" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_IDENT">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_ID_SELECTOR">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="ff6060" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="LESS_INJECTED_CODE">
       <value>
         <option name="FOREGROUND" value="a5c261" />
@@ -1521,6 +1600,72 @@
     <option name="LESS_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1aacdd" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="c9783d" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="c9783d" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_STRING">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffab57" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_UNICODE_RANGE">
+      <value>
+        <option name="FOREGROUND" value="e0c47c" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="LESS_URL">
+      <value>
+        <option name="FOREGROUND" value="6d9cbe" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -2977,6 +3122,12 @@
       <value>
         <option name="FOREGROUND" value="519f50" />
         <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="eea051" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
