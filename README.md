@@ -1,6 +1,6 @@
 # KATCool2 Color Theme
 
-This is my hand-tuned dark color theme for use in the amazing dev tools RubyMine and PHPStorm
+This is my hand-tuned dark color theme for use in the amazing dev tools RubyMine, PHPStorm, and WebStorm
 by [JetBrains](http://www.jetbrains.com/).
 
 It's something I've honed over the year little by little to suit my taste. No doubt in
@@ -71,14 +71,15 @@ hot new IDE adding its languages.
 * CoffeeScript
 * Cucumber
 * Slim
+* Json
 
 ## Install Location for OSX
-Typical RubyMine v4.5 location for this file is something like this:
-`/Users/kentabor/Library/Preferences/RubyMine40/colors`
+Typical RubyMine v7 location for this file is something like this:
+`/Users/kentabor/Library/Preferences/RubyMine70/colors`
 
 ## Install Location For Windows
-Typical RubyMine v4.5 location for this file is something like this
-`C:\Users\Ken\.RubyMine40\config\colors`
+Typical RubyMine v7 location for this file is something like this
+`C:\Users\Ken\.RubyMine70\config\colors`
 
 
 # Favorite Fonts
