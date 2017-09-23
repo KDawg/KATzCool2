@@ -50,11 +50,11 @@ Nothing formal. Copy my color theme file [`KATzCool.icls`](KATzCool2.icls) to a 
 ## Installing for OSX
 Installing my color theme is easy. Drop it into the config sub-directory created by your IDE. 
 
-On `OSX` that looks typically like this:
+On **OSX** that looks typically like this:
 
-`/Users/ken/Library/Preferences/RubyMine2016.3/colors`
-`/Users/ken/Library/Preferences/PyCharm2017.2/colors`
-`/Users/ken/Library/Preferences/WebStorm2017.2/colors`
+* `/Users/ken/Library/Preferences/RubyMine2016.3/colors`
+* `/Users/ken/Library/Preferences/PyCharm2017.2/colors`
+* `/Users/ken/Library/Preferences/WebStorm2017.2/colors`
 
 Your situation will vary depending on what IDE and what build you have installed.
 
@@ -64,7 +64,7 @@ I no longer keep a daily MS Windows dev machine. Not sure where JetBrains IDEs a
 # App Setting
 You'll need to tell your IDE to start using my Color scheme.
 
-Please restart your IDE if it was running while you copied over my color theme file.
+Restart your IDE if it was running while you copied over my color theme file.
 
 Change the color scheme in your IDE preference dialog box.
 
