@@ -22,7 +22,7 @@ JavaScript looks like this with my color scheme!
 
 Sass looks like this with my color scheme!
 
-![Javascript color theme sample](JavaScriptSpecimen.png)
+![Javascript color theme sample](SassSpecimen.png)
 
 ## Supported Languages 
 
