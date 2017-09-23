@@ -1,12 +1,13 @@
 <scheme name="KATzCool2" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="0.9" />
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="0.8" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Hack" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Bitstream Vera Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Hack" />
@@ -16,6 +17,7 @@
     <option name="EDITOR_FONT_NAME" value="Bitstream Vera Sans Mono" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="0.9" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="ffffff" />
     <option name="ANNOTATIONS_COLOR" value="3e83e7" />
@@ -42,7 +44,6 @@
         <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -190,6 +191,16 @@
       <value>
         <option name="FOREGROUND" value="ffffa4" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="e0e0e0" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="e0e0e0" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -408,7 +419,6 @@
         <option name="BACKGROUND" value="454545" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="a6a6a6" />
@@ -740,7 +750,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="6d9cbe" />
+        <option name="FOREGROUND" value="1aacdd" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -891,7 +901,6 @@
         <option name="BACKGROUND" value="141414" />
       </value>
     </option>
-    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="80" />
@@ -1098,7 +1107,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
@@ -2631,7 +2639,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="STYLUS_COLOR">
       <value>
         <option name="FOREGROUND" value="e0c47c" />

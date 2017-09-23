@@ -1,94 +1,99 @@
 # KATCool2 Color Theme
 
-This is my hand-tuned dark color theme for use in the amazing dev tools RubyMine, PHPStorm, and WebStorm
-by [JetBrains](http://www.jetbrains.com/).
+This is my artisanal, hand-crafted, dark color theme for use in the amazing dev tools 
+by [JetBrains](http://www.jetbrains.com/). 
 
-It's something I've honed over the year little by little to suit my taste. No doubt in
-my mind that it's influenced by dozens of fantastic dark-colored themes, but I don't
-have any particular references to call out.
+I'm a programmer, and I use this color theme while I'm writing code all day. 
 
-Give it a try and see how to you like it. If it's useful for you please pass on a kind
-word about it to your friends and teammates.
+Over the years I've used [PHPStorm](https://www.jetbrains.com/phpstorm/), [RubyMine](https://www.jetbrains.com/ruby/), [InteliJ](https://www.jetbrains.com/idea/), and usually reach for [WebStorm](https://www.jetbrains.com/webstorm/) the most. I'm looking forward to [PyCharm](https://www.jetbrains.com/pycharm/) as I jump into Python and [machine learning](https://www.slideshare.net/KaDawg/machine-learning-understanding-the-invisible-force-changing-our-world).
 
-* Ping me on Twitter [@KenTabor](https://twitter.com/kentabor) if you want to talk about this thing
-* Check out my [technical blog](http://blog.katworksgames.com/) for the latest on web frontend engineering
+I've honed my color scheme over the years as new languages come out, my programming environment changed, and my tastes evolve. No doubt the color choices are influenced by dozens of fantastic dark-colored themes I've discovered in the past, but I don't have any particular references to note. This one is my responsibility. 
 
-Here's how this color theme makes JavaScript look:
+Please give it a try! Find out if it's helpful. If you come to like it please pass on a kind word about it to your friends and teammates!
 
-![alt text](https://github.com/KDawg/KATzCool2/raw/master/KATzCool2_Screenie.jpg "Color Theme Sample")
+* Ping me on Twitter [@KenTabor](https://twitter.com/kentabor) to talk about this.
+* Check out my [technical blog](http://blog.katworksgames.com/) for the latest on frontend engineering, UX, and leadership.
 
+## Samples
 
-# WebStorm/PHPStorm Support
+JavaScript looks like this with my color scheme!
 
-Languages the color theme supports are just about all of them and especially Ken-centric including:
-* JavaScript
-* SCSS/SASS, LESS
-* Jade, HAML
-* Regex
-* HTML
-* CSS
-* SQL
-* PHP
-* Handlebars, EJS, Stylus
+![Javascript color theme sample](JavaScriptSpecimen.png)
 
-## File Extensions (Apr.19.2013)
-I just noticed upgrading to PHPStorm v6 JetBrains ditched .xml config files for .icls files.
-Of course that means I'll be maintaining .icls on PHPStorm now, and RubyMine once they make
-the shift there.
+Sass looks like this with my color scheme!
 
-## Install Location for OSX
-Typical WebStorm v8 location for this file is something like this:
-`/Users/kentabor/Library/Preferences/WebStorm8/colors`
+![Javascript color theme sample](JavaScriptSpecimen.png)
 
-Typical PHPStorm v6 location for this file is something like this:
-`/Users/kentabor/Library/Preferences/WebIde60/colors`
+## Supported Languages 
 
-## Install Location For Windows
-Typical PHPStorm v6 location for this file is something like this
-`C:\Users\Ken\.WebIde60\config\colors`
+This color theme supports just about all of the web-centric, full-stack, programming languages. For sure the ones particularly *Ken-centric* including:
 
-## App Setting
-Be sure to restart your IDE if it was running while your copied over the color scheme to its directory.
+* JavaScript, HTML, CSS, SCSS/Sass, LESS, JSON
+* NodeJS, Ruby, PHP
+* Apache Config, Regex, SQL, Cucumber, Database
+* ERB, EJS, Jade, HAML, XML, YAML
 
-`Preferences -> IDE Settings -> Editor -> Colors & Fonts -> Scheme Name`
+This list has grown over the years, and I expect it to keep growing.
 
+## Refactoring
 
-# RubyMine Support
+Over the years I found each JetBrains IDE used it's own `.xml` file formatted specifically for its own need. Over the years they switched to what I think is a single, all-inclusive, multi-use format stored in a `.icls` file. 
 
-I've recently bought RubyMine and have brought over my color theme for PHPStorm into this
-hot new IDE adding its languages.
+For that reason I've removed all legacy references to supporting individual IDEs. 
 
-## Supported Languages
-* Ruby
-* ERB
-* HAML
-* YAML
-* JavaScipt
-* CSS
-* HTML
-* SASS
-* LESS
-* CoffeeScript
-* Cucumber
-* Slim
-* Json
+You'll only discover one file here now: [`KATzCool.icls`](KATzCool2.icls), and I expect you'll use it well in your particular choice of JetBrains IDEs.
 
-## Install Location for OSX
-Typical RubyMine v7 location for this file is something like this:
-`/Users/kentabor/Library/Preferences/RubyMine70/colors`
+# Installing 
 
-## Install Location For Windows
-Typical RubyMine v7 location for this file is something like this
-`C:\Users\Ken\.RubyMine70\config\colors`
+Nothing formal. Copy my color theme file [`KATzCool.icls`](KATzCool2.icls) to a subdirectory on your machine. The main filepath changes based on your IDE of choice. 
+
+## Installing for OSX
+Installing my color theme is easy. Drop it into the config sub-directory created by your IDE. 
+
+On `OSX` that looks typically like this:
+
+`/Users/ken/Library/Preferences/RubyMine2016.3/colors`
+`/Users/ken/Library/Preferences/PyCharm2017.2/colors`
+`/Users/ken/Library/Preferences/WebStorm2017.2/colors`
+
+Your situation will vary depending on what IDE and what build you have installed.
+
+## Installing for Windows
+I no longer keep a daily MS Windows dev machine. Not sure where JetBrains IDEs are stored on that environment. If you poke around your file system a bit I bet you figure it out.
+
+# App Setting
+You'll need to tell your IDE to start using my Color scheme.
+
+Please restart your IDE if it was running while you copied over my color theme file.
+
+Change the color scheme in your IDE preference dialog box.
+
+![Image of Preferences Dialog Box](preference.jpg)
 
 
 # Favorite Fonts
-This programmer font is highly recommended as I've used it daily for years and I know
-I'm more productive because it exists:
+This doesn't have anything to do with color schemes, but it's a bonus topic just for fun!
+
+I'm picky about what programmer's editor I use, and even more picky about my font. I hope you are too. Excellent tools make us better at our craft. 
+
+Check out the one I'm using, and see if it'll help you better read your code.
+
+## Hack
+
+This represents my ideal font for code. Install it now. 
+
+[Hack Programmer's Font](http://sourcefoundry.org/hack/)
+
+## Bitstream Vera Sans Mono
+
+A fine fallback font. Worth a look.
 
 [Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)
 
-Out of nowhere I've suddenly switched to this font as Adobe dropped it on the world just
-a few weeks ago and I think it's fantastic:
+# Enjoy
 
-[Adobe Source Code Pro Mono](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html)
+Creating and maintaining my color scheme is work that I take joy from. It makes me better at my profession, makes my code feel a bit more vibrant, and displays the syntax more clearly. 
+
+I hope it helps you too! Enjoy in good health.
+
+-Ken  
